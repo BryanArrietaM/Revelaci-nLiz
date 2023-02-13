@@ -1,0 +1,13 @@
+body{
+  margin: 5%;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  background-image: url("imagen-revelacion.jpg");
+  background-color: #F6E6C2;
+
+}
+
+h1{
+  margin-top: 50px;
+  font-family: 'Merriweather', cursive;
+}
